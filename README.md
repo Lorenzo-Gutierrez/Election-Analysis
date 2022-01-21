@@ -10,7 +10,7 @@ The purpose of this project was to analyze the results of a congressional electi
 
 Additionally, this info was required to be written to a text file to be provided to the election commission.
 
-##Results
+## Results
 The results of the analysis were:
 - 369,711 total votes cast in the election
 - Number of votes cast in each county, and percentage of total votes for each county:
@@ -27,7 +27,7 @@ The results of the analysis were:
     - Winning Vote Count: 272,892
     - Winning Percentage: 73.8%
 
-##Summary
+## Summary
 
 As you can see, my code was able to quickly and effectively provide an analysis of the election results. This code could immediately be used in other congressional elections, as long as the data file format was the same. In fact, with some modifications it could be used in larger elections or to provide deeper analysis. Examples of such modifications are:
 - Modifying the file reader code to read other file formats
